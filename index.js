@@ -4,6 +4,7 @@ const PAGE_ACCESS_TOKEN = 'EAAWnmIoxGbYBO5C4JgZAZCLVaFpuPT9DQrVL34GMHGZAWZCycOAZ
 const PAGE_ID = '626455973878783ا';
 const JSONBIN_ID = '68307e768561e97a501a911bا';
 const JSONBIN_SECRET = '$2a$10$449JZDNwBY6BOxDb87K.iusKYOj2hUoN1iP0Qmf16xy4VjKrpQryu';
+
 export default async function handler(req, res) {
   try {
     // جلب الخبر الأخير من Crunchyroll
