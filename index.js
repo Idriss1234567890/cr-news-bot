@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 
 const PAGE_ACCESS_TOKEN = 'EAAWnmIoxGbYBO5C4JgZAZCLVaFpuPT9DQrVL34GMHGZAWZCycOAZBonscn354JlxaeIpZBeavWkXFKa7yqOEYrZA0BB4P9F0npcz0RoQUoYnY0XKsNLzwZCFhCqtpJ7ZCny0Rtm8LKZBBgXRNRfRKceX91cmp85dVsQeAXIAX3SKqGZAy4pQXM1LPAlSMMQhRfiwtZAr';
-const PAGE_ID = '626455973878783ا';
-const JSONBIN_ID = '68307e768561e97a501a911bا';
+const PAGE_ID = '626455973878783';
+const JSONBIN_ID = '68307e768561e97a501a911b';
 const JSONBIN_SECRET = '$2a$10$449JZDNwBY6BOxDb87K.iusKYOj2hUoN1iP0Qmf16xy4VjKrpQryu';
 
 export default async function handler(req, res) {
